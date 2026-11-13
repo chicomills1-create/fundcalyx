@@ -1,0 +1,78 @@
+{
+  "data_status": "FICTIONAL / NEVER USE AS LIVE DATA",
+  "brand": "FundCalyx",
+  "records": [
+    {
+      "id": "f1",
+      "title": "Community Impact Initiative",
+      "issuer": "Illustrative Funding Program",
+      "category": "Community",
+      "region": "United States",
+      "value": "$25k–$150k",
+      "deadline": "Sample · 30 days",
+      "score": 94,
+      "summary": "Example community-focused funding opportunity for local service programs, neighborhood partnerships and public benefit projects.",
+      "reason": "Strong keyword overlap with community services and nonprofit initiatives."
+    },
+    {
+      "id": "f2",
+      "title": "Organizational Capacity Award",
+      "issuer": "Illustrative Foundation",
+      "category": "Capacity",
+      "region": "United States",
+      "value": "Up to $75k",
+      "deadline": "Sample · 42 days",
+      "score": 87,
+      "summary": "Example award for organizational training, operational systems and program delivery improvements.",
+      "reason": "Fits an organization seeking operational development funding."
+    },
+    {
+      "id": "f3",
+      "title": "Youth Learning Mini-Grants",
+      "issuer": "Illustrative Community Trust",
+      "category": "Education",
+      "region": "United States",
+      "value": "$5k–$30k",
+      "deadline": "Sample · 16 days",
+      "score": 89,
+      "summary": "Example support for youth enrichment and after-school learning programs.",
+      "reason": "Aligns with education and community programming."
+    },
+    {
+      "id": "f4",
+      "title": "Green Spaces Program",
+      "issuer": "Illustrative Civic Fund",
+      "category": "Environment",
+      "region": "United States",
+      "value": "$10k–$95k",
+      "deadline": "Sample · 58 days",
+      "score": 81,
+      "summary": "Example grant for neighborhood parks and environmental improvement projects.",
+      "reason": "Potential fit for civic or environmental initiatives."
+    },
+    {
+      "id": "f5",
+      "title": "Small Business Innovation Fund",
+      "issuer": "Illustrative Commerce Program",
+      "category": "Business",
+      "region": "United States",
+      "value": "$15k–$60k",
+      "deadline": "Sample · 21 days",
+      "score": 76,
+      "summary": "Example small-business research and equipment program.",
+      "reason": "Matches selected business growth terms."
+    },
+    {
+      "id": "f6",
+      "title": "Rural Service Access Grant",
+      "issuer": "Illustrative Regional Initiative",
+      "category": "Community",
+      "region": "United States",
+      "value": "$20k–$120k",
+      "deadline": "Sample · 65 days",
+      "score": 83,
+      "summary": "Example funding for access to essential services in rural areas.",
+      "reason": "Relevant to rural community delivery models."
+    }
+  ]
+}

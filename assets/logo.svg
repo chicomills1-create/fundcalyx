@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120" role="img" aria-label="FundCalyx">
+  <!-- FundCalyx production logo — built from the supplied brand mark (assets/favicon.svg):
+       sprout line-mark on deep botanical green #12342c, wordmark in editorial serif. -->
+  <rect x="4" y="4" width="112" height="112" rx="26" fill="#12342c"/>
+  <g transform="translate(22 22) scale(2.111)">
+    <path d="M18 29V16" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" fill="none"/>
+    <path d="M18 21C8 20 6 13 8 7c7 0 12 3 13 10M18 21c10-1 12-8 10-14-7 0-12 3-13 10" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M11 29h14" stroke="#d9f58a" stroke-width="2.6" stroke-linecap="round" fill="none"/>
+  </g>
+  <text x="140" y="76" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#12342c" letter-spacing="-1">Fund<tspan fill="#5b8a3c">Calyx</tspan></text>
+</svg>
