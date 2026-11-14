@@ -1,0 +1,30 @@
+# FundCalyx (fundcalyx.com)
+
+> FundCalyx is a subscription service that discovers U.S. federal grant opportunities, screens them against an organization's profile using the funder's full official notice, and monitors saved opportunities for deadline and notice changes. Operated by Apex Grid Engineering PLLC (Queen Creek, Arizona). Founded by Jeremy "Chico" Mills, Founder & CEO.
+
+## What FundCalyx does
+- Discovers federal grant opportunities from Grants.gov for nonprofits, schools, startups and small businesses.
+- Screens each opportunity against published eligibility criteria with exactly three outcomes: matches published criteria / does not match / cannot be determined. Every outcome is tied to the criterion and its source passage.
+- Monitors saved opportunities daily; deadline reminders at 30/14/7/2 days and change alerts when a notice changes.
+- Coverage honesty: federal grants only. Foundation, corporate and most state grants are not included.
+
+## What FundCalyx does not do
+- Does not decide or certify eligibility — the funder's determination governs.
+- Does not write or submit applications; does not guarantee funding; never charges a success fee.
+- Never collects or holds customers' Grants.gov or SAM.gov credentials.
+
+## Plans
+- Scout — $39/month: 1 profile, 1 seat, daily monitoring, weekly digest, deadline reminders + change alerts, basic CSV export.
+- Match — $79/month: 3 profiles, 3 seats, daily digest + change alerts, monthly funding calendar, CSV export.
+- Team — $149/month: 6 profiles, 5 seats, custom filtered digests, structured export, automated quarterly profile check.
+
+## Key pages
+- Home: https://fundcalyx.com/
+- Sample report (real federal records, Nov 13 2026): https://fundcalyx.com/sample-report.html
+- Terms, Privacy & Refunds: https://fundcalyx.com/legal.html
+
+## Contact
+- Email: info@fundcalyx.com
+- Parent: Apex Grid Engineering PLLC — https://apexgrideng.com
+
+This product uses the Grants.gov API but is not endorsed or certified by the U.S. Department of Health and Human Services.
