@@ -1,0 +1,161 @@
+# FundCalyx — full content (fundcalyx.com)
+
+> FundCalyx is a subscription service that discovers U.S. federal grant
+> opportunities, screens them against an organization's profile using the
+> funder's full official notice, and monitors saved opportunities for
+> deadline and notice changes. Operated by Apex Grid Engineering PLLC
+> (Queen Creek, Arizona). Founded by Jeremy "Chico" Mills, Founder & CEO.
+
+## Who it serves
+
+Nonprofits, schools and education foundations, startups, and small
+businesses that pursue U.S. federal grants and cannot afford to spend
+weeks evaluating opportunities they were never eligible for.
+
+## Coverage
+
+Federal grant opportunities from Grants.gov only. Foundation, corporate
+and most state grants are not included, and FundCalyx says so up front.
+
+## How screening works
+
+FundCalyx reads the funder's full official notice (not a listing summary)
+and checks the organization's profile against each published eligibility
+criterion. Every screening produces exactly one of three outcomes:
+
+- Matches published criteria
+- Does not match
+- Cannot be determined
+
+Every outcome is tied to the criterion and its supporting source passage.
+If the notice cannot settle a question, the outcome is "cannot be
+determined" — never a guess dressed up as a verdict. FundCalyx does not
+decide or certify eligibility; the funder's determination governs.
+
+## Monitoring
+
+Monitoring runs daily, not in real time. Deadline reminders are sent at
+30, 14, 7, and 2 days before a close date, and change alerts are sent
+when a monitored notice changes. A blank close date in the source is
+reported as "no deadline published" — never an invented date. If a data
+feed cannot be verified, alerts pause and a visible stale-data notice is
+shown rather than alerts being built on unverified data.
+
+## What FundCalyx does not do
+
+- Does not decide or certify eligibility.
+- Does not write or submit applications (grant writing is not part of
+  the subscription).
+- Does not guarantee funding, and never charges a success fee.
+- Never asks for, collects, or holds customers' Grants.gov or SAM.gov
+  credentials.
+
+## Plans
+
+- Scout — $39/month: 1 organization profile, 1 seat, daily monitoring,
+  weekly digest, deadline reminders and change alerts, basic CSV export.
+- Match — $79/month: 3 profiles, 3 seats, daily monitoring, daily
+  digest, monthly funding calendar, CSV export.
+- Team — $149/month: 6 profiles, 5 seats, custom filtered digests,
+  structured export, automated quarterly profile check.
+
+Deadline monitoring is daily on every plan — deadline safety is never a
+tier upgrade. FundCalyx sells assessed fit, not list access: there is no
+free tier, and a dated sample report built from real federal records is
+the pre-purchase evaluation mechanism.
+
+## Sample report (real federal records, screened Nov 13, 2026)
+
+The public sample report at https://fundcalyx.com/sample-report.html
+shows one of each outcome, screened against the opportunities' published
+detail pages:
+
+1. MATCHES PUBLISHED CRITERIA — U.S. Department of Justice, Office of
+   Juvenile Justice and Delinquency Prevention (OJJDP), "FY 2026
+   Mentoring for Youth Impacted by Opioids and Other Substance Use,"
+   opportunity O-OJJDP-2026-172743. Closes November 16, 2026. Maximum
+   award $2,000,000; total program funding $16,500,000; approximately 15
+   awards. Screened profile: a 501(c)(3) statewide Arizona youth
+   mentoring nonprofit.
+2. DOES NOT MATCH — National Institutes of Health (NIH) SBIR parent
+   announcement PA-27-100. Closes April 5, 2027. Amounts not specified
+   in the source. Published criteria limit applicants to small business
+   concerns, which disqualifies the nonprofit profile.
+3. CANNOT BE DETERMINED — U.S. Department of Transportation / Federal
+   Highway Administration, opportunity FHWA-GADC-27-001. Closes
+   December 28, 2026. Maximum award $20,000,000. The open question is
+   whether the profile organization may apply through a consortium path;
+   the published material does not settle it.
+
+Production screening runs against the full official notice; the sample
+screens were run against the opportunities' published detail pages and
+are labelled that way on the sample page itself.
+
+## Frequently asked questions
+
+Q: Is funding guaranteed?
+A: No. A match is a starting point, not an eligibility determination or
+an award guarantee. Always verify requirements and deadlines with the
+original funder.
+
+Q: Does FundCalyx write or submit applications?
+A: No. FundCalyx focuses on opportunity discovery, eligibility
+screening, source links, and deadline organization.
+
+Q: Can I cancel a subscription?
+A: Yes — self-service, anytime. Ordinary cancellation runs to the end
+of the period you paid for. If FundCalyx ever ends your service itself,
+the unused part of the period is refunded pro-rata.
+
+Q: Where do the grants come from?
+A: U.S. federal opportunities, via Grants.gov. Foundation, corporate
+and most state grants are not in this data — FundCalyx is a
+federal-grants tool and says so up front.
+
+Q: How does screening actually work?
+A: We read the funder's full official notice and check your profile
+against each published eligibility criterion, keeping the source passage
+behind every outcome. If the notice can't settle a question, the answer
+is "cannot be determined" — never a guess dressed up as a verdict.
+
+Q: How fast are change alerts?
+A: Monitoring runs daily, not in real time. When a sweep detects a
+change and verifies it, the alert is queued and sent — expect same-day
+on a normal cycle, and we'll show a visible stale-data notice rather
+than send alerts built on a feed we couldn't verify.
+
+Q: What if FundCalyx gets a deadline wrong?
+A: We notify you promptly, publish the correction, and assess the
+impact. Where a correction can't restore what was lost — a passed
+deadline can't be un-passed — the affected period is credited or
+refunded under the refund policy. Corrections never erase the original
+error from our accuracy record.
+
+Q: Do you hold my Grants.gov or SAM.gov login?
+A: Never. FundCalyx works from public funder data and the profile you
+give us. Your portal credentials are yours alone, and we will never ask
+for them.
+
+## Refund policy (summary; the legal page governs)
+
+If FundCalyx publishes a materially wrong deadline or screening outcome,
+it notifies affected customers promptly, publishes a correction, and
+assesses the impairment; where a correction cannot reasonably restore
+the service, the affected period is credited or refunded. Full Terms,
+Privacy, and Refund policy: https://fundcalyx.com/legal.html
+
+## Key pages
+
+- Home: https://fundcalyx.com/
+- Sample report: https://fundcalyx.com/sample-report.html
+- Workspace preview: https://fundcalyx.com/workspace.html
+- Terms, Privacy & Refunds: https://fundcalyx.com/legal.html
+- Index file: https://fundcalyx.com/llms.txt
+
+## Contact
+
+- Email: info@fundcalyx.com
+- Parent: Apex Grid Engineering PLLC — https://apexgrideng.com
+- Crunchbase: https://www.crunchbase.com/organization/fundcalyx
+
+This product uses the Grants.gov API but is not endorsed or certified by the U.S. Department of Health and Human Services.
